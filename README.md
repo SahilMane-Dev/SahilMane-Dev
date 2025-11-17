@@ -31,7 +31,7 @@
 ## 📊 GitHub Stats
 ![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilMane-Dev&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMane-Dev&layout=compact&theme=tokyonight)
+
 
 ---
 
