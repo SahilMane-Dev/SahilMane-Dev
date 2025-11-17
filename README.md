@@ -12,7 +12,7 @@
 - Django (Models, Admin Panel, ORM)
 - SQL Queries & Database Management
 - HTML, CSS & JavaScript
-- -Bootstrap and JQuery
+- Bootstrap and JQuery
 - Git & GitHub
 
 ---
